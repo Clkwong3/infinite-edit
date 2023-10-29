@@ -41,7 +41,10 @@ Say goodbye to the hassles of manual saving and enjoy a structured, reliable sol
 
 ## Tools
 
-Provide a list of tools needed to interact with your project effectively.
+Here are the essential tools you'll need to interact with Infinite-Edit effectively:
+
+- Web Browser: Any modern web browser such as Chrome, Firefox, or Brave is suitable for using Infinite-Edit.
+- Internet Connection: An internet connection is required for the initial setup and synchronization of your notes and code snippets.
 
 ## Technology Stack
 
