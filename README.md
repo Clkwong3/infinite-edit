@@ -173,11 +173,16 @@ That's all there is to it! You're now ready to make the most of Infinite-Edit on
 
 ## Links
 
-- [Deployed Site](https://pacific-gorge-55204-86517f95aead.herokuapp.com/): This link takes you to the live version of the web application, hosted on Heroku, where you can interact with the application's features and functionalities.
+Here are essential links that will help you explore and interact with Infinite-Edit:
 
-- [GitHub Repository](https://github.com/Clkwong3/infinite-edit): You can access the project's source code, contribute to development, and explore the codebase to understand how the application works.
+- **[Live Application](https://pacific-gorge-55204-86517f95aead.herokuapp.com/):** This link takes you to the live version of the web application, which is hosted on Heroku. You can use this link to access the fully functional application and experience its features firsthand. This is the best way to see how Infinite-Edit works in action.
 
-- [Starter Code](https://github.com/coding-boot-camp/cautious-meme): This GitHub repository contains the starter code for this coding project. You can use this code as a foundation to kickstart your own development, saving time and effort in setting up the basic structure of your project.
+- **[GitHub Repository](https://github.com/Clkwong3/infinite-edit):** If you're interested in delving into the code behind Infinite-Edit, this link will take you to the project's GitHub repository. Here, you can access the source code, contribute to development, and explore the codebase to gain a deeper understanding of the application's inner workings.
+
+- **[Starter Code Repository](https://github.com/coding-boot-camp/cautious-meme):** For developers looking to start their own projects with a solid foundation, this link leads to the GitHub repository containing the starter code for this coding project. You can use this code as a starting point to save time and effort in setting up the basic structure of your project. It's a valuable resource for kickstarting your development journey.
+
+Explore these links to get the most out of Infinite-Edit, whether you want to use the application, examine the code, or kickstart your own projects.
+
 
 ## Credits
 
