@@ -57,7 +57,15 @@ Explain how to run tests or provide information on the testing process for your 
 
 ## Credits
 
-Acknowledge any contributors, libraries, or resources you used in your project.
+This project was developed by [Clarice Kwong](https://github.com/Clkwong3).
+
+**Code Attribution:**
+
+I'd like to recognize that this project uses code and concepts introduced during class, notably Activity 25 - 26 of Module 19 PWA. The lesson and demonstrations had a impact on how I worked on this project.
+
+**Tutoring Session Influence:**
+
+I'm grateful for the valuable guidance and insights I received during tutoring sessions. They helped me find solutions and improvements for this project.
 
 ## Contributing
 
