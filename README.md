@@ -43,8 +43,11 @@ Say goodbye to the hassles of manual saving and enjoy a structured, reliable sol
 
 Here are the essential tools you'll need to interact with Infinite-Edit effectively:
 
-- **Web Browser:** Any modern web browser such as Chrome, Firefox, or Brave is suitable for using Infinite-Edit.
-- **Internet Connection:** An internet connection is required for the initial setup and synchronization of your notes and code snippets.
+- **Web Browser:** Any modern web browser such as Chrome, Firefox, or Brave is suitable for using Infinite-Edit. A web browser is the gateway to accessing and using the application.
+
+- **Internet Connection:** An internet connection is required for the initial setup and synchronization of your notes and code snippets. It enables real-time data transfer and ensures that your work is saved securely.
+
+- **Node.js:** Node.js is a server-side JavaScript runtime that serves as the backbone for the server logic in Infinite-Edit. It enables server-side scripting and allows the application to handle requests and data processing.
 
 ## Technology Stack
 
