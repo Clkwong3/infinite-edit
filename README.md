@@ -43,12 +43,41 @@ Say goodbye to the hassles of manual saving and enjoy a structured, reliable sol
 
 Here are the essential tools you'll need to interact with Infinite-Edit effectively:
 
-- Web Browser: Any modern web browser such as Chrome, Firefox, or Brave is suitable for using Infinite-Edit.
-- Internet Connection: An internet connection is required for the initial setup and synchronization of your notes and code snippets.
+- **Web Browser:** Any modern web browser such as Chrome, Firefox, or Brave is suitable for using Infinite-Edit.
+- **Internet Connection:** An internet connection is required for the initial setup and synchronization of your notes and code snippets.
 
 ## Technology Stack
 
-List the technologies, frameworks, and tools used in your project.
+### Root Directory
+
+- **Node.js:** A server-side JavaScript runtime, used for server logic.
+- **Express.js:** A web application framework for building server-side APIs and handling routes.
+- **Nodemon:** Monitors code changes and automatically restarts the server during development.
+- **Concurrently:** Allows running multiple commands concurrently, simplifying the development workflow.
+- **if-env:** Helps manage environment variables for the project configuration.
+- **Heroku:** A cloud platform used for deploying and hosting web applications.
+
+### Server Side
+
+- **Node.js:** The server runtime for handling server-side logic.
+- **Express.js:** A web application framework for building server-side APIs.
+- **Nodemon:** Automatically restarts the server during development for seamless debugging.
+- **HTML (for client-side):** Used for rendering web pages on the client side, part of the server-side rendering process.
+
+### Client Side
+
+- **Node.js:** Used for managing client-side build tools and development dependencies.
+- **Webpack:** A module bundler for the client-side code, optimizing and organizing assets.
+- **Babel:** Transpiles modern JavaScript to ensure compatibility across browsers.
+- **HTML Webpack Plugin:** Simplifies HTML file creation in the client-side build process.
+- **Webpack Dev Server:** Provides a development server with live reloading for efficient client-side development.
+- **Workbox Webpack Plugin:** Enables service worker integration and caching strategies for Progressive Web Apps (PWAs).
+- **HTTP-Server:** A simple HTTP server used for serving static client-side files during development.
+- **CSS Loaders:** Handles stylesheets in the client-side code, ensuring proper rendering.
+- **HtmlWebpackPlugin:** Simplifies the creation of HTML files for the client-side build, enhancing the user interface.
+- **Webpack PWA Manifest:** Manages Progressive Web App (PWA) features, making the application installable.
+- **IDB:** IndexedDB, a client-side database for web applications, ensuring data persistence.
+- **Code Mirror Themes:** Styles for the CodeMirror text editor used in the project, enhancing code editing and syntax highlighting.
 
 ## Installation
 
