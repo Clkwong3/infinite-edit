@@ -28,7 +28,7 @@ export const getDb = async () => {
   const jateDb = await openDB("jate", 1); // Open the 'jate' database
   const tx = jateDb.transaction("jate", "readonly"); // Start a transaction in 'readonly' mode
   const store = tx.objectStore("jate"); // Access the object store named 'jate'
-  const data = await store.getAll(); // Use the getAll method to retrieve all records from the object store
+  const data = await store.get(1); // Retrieve a record with the key 1 from the object store
   console.log("Data retrieved from the database", data);
   return data;
 };
