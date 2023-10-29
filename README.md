@@ -1,4 +1,5 @@
 # infinite-edit
+
 A web-based text editor with integrated web development features such as Webpack, IndexedDB, Service Worker, and Heroku deployment for efficient coding and development tasks.
 
 ## Overview
@@ -45,15 +46,11 @@ Explain how to run tests or provide information on the testing process for your 
 
 ## Links
 
-- [Project Walkthrough Video](link-to-your-video): A video that provides a detailed walkthrough of the project, demonstrating its features and functionality.
+- [Deployed Site](https://pacific-gorge-55204-86517f95aead.herokuapp.com/): This link takes you to the live version of the web application, hosted on Heroku, where you can interact with the application's features and functionalities.
 
-- [Project Website](link-to-website): If you have a dedicated project website, you can link it here.
+- [GitHub Repository](https://github.com/Clkwong3/infinite-edit): You can access the project's source code, contribute to development, and explore the codebase to understand how the application works.
 
-- [Documentation](link-to-documentation): If you have project documentation or a wiki, you can link it for in-depth information.
-
-- [Live Demo](link-to-live-demo): If your project is live or hosted, you can provide a link for users to interact with it.
-
-- [GitHub Repository](link-to-github-repo): Link to the GitHub repository for the project.
+- [Starter Code](https://github.com/coding-boot-camp/cautious-meme): This GitHub repository contains the starter code for this coding project. You can use this code as a foundation to kickstart your own development, saving time and effort in setting up the basic structure of your project.
 
 ## Credits
 
