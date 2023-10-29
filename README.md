@@ -53,7 +53,33 @@ Explain how to install and set up your project. Include any prerequisites and st
 
 ## Usage
 
-Provide usage instructions and examples. How can someone use your project? Include code samples if necessary.
+Infinite-Edit is designed to be intuitive and user-friendly, making it easy to take notes and write code effectively.
+
+1. **Getting Started:** Begin by opening Infinite-Edit in your web browser. The intuitive interface will greet you with an empty editor, ready for your content.
+   ![Infinite-Edit landing page](./assets/images/Getting-Started.png)
+
+2. **Creating Content:** Start by typing or pasting your notes or code snippets into the editor. You'll find that the editor is well-equipped with features like syntax highlighting, line numbering, and automatic indentation to streamline your work.
+   ![Infinite-Edit Sample](./assets/images/Creating-Content.png)
+
+3. **Automatic Saving:** You don't have to worry about saving your work manually. Infinite-Edit automatically saves your content as you go, ensuring that your progress is never lost.
+
+4. **Offline Access:** Enjoy the flexibility of working offline. Even when you're not connected to the internet, your notes and code remain accessible.
+
+5. **Structured Data Management:** Behind the scenes, infinite-edit uses a structured database to organize your content efficiently. This ensures a reliable and organized workspace.
+
+6. **PWA Installation:** For quick and easy access, consider installing infinite-edit as a Progressive Web App (PWA) on your device. Look for the "Install!" button in the navigation bar and click it to enjoy a seamless experience.
+
+   ![Install Button in NavBar](./assets/images/Install-NavBar.png)
+
+   **Alternatively:** If you're using a browser that supports PWAs, you can also install infinite-edit as follows:
+
+   - **Brave Browser:** Look for the PWA icon in the URL bar (as shown below) and click it to install Infinite-Edit as a PWA.
+
+     ![Brave PWA icon in the URL](./assets/images/Brave-PWA-icon.png)
+
+   - **Google Chrome:** Find the PWA icon in the URL bar (as shown below). Click it to install Infinite-Edit as a PWA for quick access.
+
+     ![Chrome PWA icon in the URL](./assets/images/Chrome-PWA-icon.png)
 
 ## Links
 
