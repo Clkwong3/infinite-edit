@@ -39,6 +39,8 @@ Infinite-Edit is a dynamic web application designed to simplify and enhance your
 
 Say goodbye to the hassles of manual saving and enjoy a structured, reliable solution for your creative and productive endeavors.
 
+[Table of Contents](#table-of-contents)
+
 ## Tools
 
 Here are the essential tools you'll need to interact with Infinite-Edit effectively:
@@ -48,6 +50,8 @@ Here are the essential tools you'll need to interact with Infinite-Edit effectiv
 - **Internet Connection:** An internet connection is required for the initial setup and synchronization of your notes and code snippets. It enables real-time data transfer and ensures that your work is saved securely.
 
 - **Node.js:** Node.js is a server-side JavaScript runtime that serves as the backbone for the server logic in Infinite-Edit. It enables server-side scripting and allows the application to handle requests and data processing.
+
+[Table of Contents](#table-of-contents)
 
 ## Technology Stack
 
@@ -81,6 +85,8 @@ Here are the essential tools you'll need to interact with Infinite-Edit effectiv
 - **Webpack PWA Manifest:** Manages Progressive Web App (PWA) features, making the application installable.
 - **IDB:** IndexedDB, a client-side database for web applications, ensuring data persistence.
 - **Code Mirror Themes:** Styles for the CodeMirror text editor used in the project, enhancing code editing and syntax highlighting.
+
+[Table of Contents](#table-of-contents)
 
 ## Installation
 
@@ -139,6 +145,8 @@ To set up infinite-edit for local development, follow these steps:
 
 That's it! Infinite-Edit has been successfully installed into your device.
 
+[Table of Contents](#table-of-contents)
+
 ## Usage
 
 Infinite-Edit is designed to be intuitive and user-friendly, making it easy to take notes and write code effectively.
@@ -171,6 +179,8 @@ Infinite-Edit is designed to be intuitive and user-friendly, making it easy to t
 
 That's all there is to it! You're now ready to make the most of Infinite-Edit on your device.
 
+[Table of Contents](#table-of-contents)
+
 ## Links
 
 Here are essential links that will help you explore and interact with Infinite-Edit:
@@ -183,6 +193,7 @@ Here are essential links that will help you explore and interact with Infinite-E
 
 Explore these links to get the most out of Infinite-Edit, whether you want to use the application, examine the code, or kickstart your own projects.
 
+[Table of Contents](#table-of-contents)
 
 ## Credits
 
@@ -195,6 +206,8 @@ I'd like to recognize that this project uses code and concepts introduced during
 **Tutoring Session Influence:**
 
 I'm grateful for the valuable guidance and insights I received during tutoring sessions. They helped me find solutions and improvements for this project.
+
+[Table of Contents](#table-of-contents)
 
 ## Contributing
 
@@ -240,6 +253,8 @@ The project creator will review your pull request and provide feedback.
 
 Thank you for your interest in contributing to the project!
 
+[Table of Contents](#table-of-contents)
+
 ## Report Issue
 
 If you encounter any issues in the project, here's how you can get involved:
@@ -265,6 +280,8 @@ If you encounter any issues in the project, here's how you can get involved:
 7. **Labeling:** If you're familiar with labels or the issue tracking system on GitHub, you can add labels that best describe the issue. If not, don't worry; we'll handle that.
 
 8. **Submit the Issue:** Click "Submit new issue," and the project creator will review it. We'll get back to you as soon as possible.
+
+[Table of Contents](#table-of-contents)
 
 ## License
 
