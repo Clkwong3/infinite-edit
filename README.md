@@ -169,6 +169,8 @@ Infinite-Edit is designed to be intuitive and user-friendly, making it easy to t
 
      ![Chrome PWA icon in the URL](./assets/images/Chrome-PWA-icon.png)
 
+That's all there is to it! You're now ready to make the most of Infinite-Edit on your device.
+
 ## Links
 
 - [Deployed Site](https://pacific-gorge-55204-86517f95aead.herokuapp.com/): This link takes you to the live version of the web application, hosted on Heroku, where you can interact with the application's features and functionalities.
