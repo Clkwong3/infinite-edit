@@ -290,4 +290,4 @@ If you encounter any issues in the project, here's how you can get involved:
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Clkwong3/infinite-edit/blob/main/LICENSE) file for details.
 
-[Top](#infinite-edit)
+[Top](#introduction)
