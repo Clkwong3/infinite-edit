@@ -51,6 +51,28 @@ module.exports = () => {
     module: {
       rules: [
         // TODO: Add CSS loaders and babel to webpack.
+        // Handling CSS files
+        {
+          test: /\.css$/i, // match any file with .css
+          use: ["style-loader", "css-loader"], // process CSS file
+        },
+        // Handling JavaScript files
+        {
+          test: /\.m?js$/, // match any file with .js or .mjs
+          exclude: /node_modules/, // don't process external libraries
+          // Use babel-loader to transform JavaScript code to be compatible with older browsers.
+          use: {
+            loader: "babel-loader",
+            // Babel options specify presets and plugins for transformation.
+            options: {
+              presets: ["@babel/preset-env"], // Transform modern JavaScript to an older version.
+              plugins: [
+                "@babel/plugin-proposal-object-rest-spread", // Allow the use of object spread syntax.
+                "@babel/transform-runtime", // Transform ES6 features that require runtime support.
+              ],
+            },
+          },
+        },
       ],
     },
   };
