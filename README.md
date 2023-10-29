@@ -49,7 +49,60 @@ List the technologies, frameworks, and tools used in your project.
 
 ## Installation
 
-Explain how to install and set up your project. Include any prerequisites and step-by-step instructions.
+Follow these steps to install and set up infinite-edit on your device. Ensure you meet the prerequisites before proceeding.
+
+### Prerequisites
+
+Before you begin, make sure you have the following software installed on your computer:
+
+- Web browser (e.g., Chrome, Firefox, Brave)
+- Internet connection (for initial setup)
+- [Node.js](https://nodejs.org/en) (for local development)
+
+To set up infinite-edit for local development, follow these steps:
+
+1. **Clone the Repository:**
+
+   - Open your terminal or command prompt.
+   - Navigate to the directory to install infinite-edit.
+   - Run the following command to clone the repository:
+
+     ```
+     git clone git@github.com:Clkwong3/infinite-edit.git
+     ```
+
+2. **Install Dependencies:**
+
+   - Navigate to the project directory:
+
+     ```
+     cd infinite-edit
+     ```
+
+   - Install project dependencies by running:
+
+     ```
+     npm install
+     ```
+
+3. **Start the Application:**
+
+   - To start the server, run:
+
+     ```
+     npm start
+     ```
+
+   - Infinite-Edit should now be up and running.
+
+4. **Access in Browser:**
+
+   - Open any web browser and type http://localhost:3000 in the address bar to access the application.
+
+   **Note:** If you're using a browser that supports Progressive Web Apps (PWAs), you can also install Infinite-Edit as a PWA for quick and easy access.
+   Look for the "Install!" button in the navigation bar and click it to enjoy a seamless experience online or offline.
+
+That's it! Infinite-Edit has been successfully installed into your device.
 
 ## Usage
 
